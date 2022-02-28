@@ -66,7 +66,7 @@ function changeHeader() {
 }
 
 function lose() {
-    header.innerHTML = '<h3 class="header">Przegrałeś. Twój wynik to: '+points+'</h3><br><button ></button>';
+    header.innerHTML = '<h3 class="header">Przegrałeś. Twój wynik to: '+points+'</h3>';
 }
 
 asdadsas
